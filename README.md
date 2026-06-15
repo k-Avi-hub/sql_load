@@ -74,7 +74,7 @@ LIMIT 10;
 * ORDER BY
 * LIMIT
 
-![Top Paying Jobs Result](NAME_OF_YOUR_IMAGE.png)
+![Top Paying Jobs Result](Screenshot%202026-06-15.png)
 ---
 
 ### 2. Top Skills Required
