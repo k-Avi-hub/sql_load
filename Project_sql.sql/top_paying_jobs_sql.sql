@@ -15,3 +15,6 @@ where job_title_short IN('Data Analyst','Business Analyst') AND
 ORDER BY 
     salary_year_avg DESC
 LIMIT 10
+
+
+![Top Paying Jobs Result](screenshots/top_paying_jobs_result.png)
