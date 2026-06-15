@@ -17,4 +17,3 @@ ORDER BY
 LIMIT 10
 
 
-![Top Paying Jobs Result](screenshots/top_paying_jobs_result.png)
