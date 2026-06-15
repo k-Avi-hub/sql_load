@@ -74,6 +74,9 @@ LIMIT 10;
 * ORDER BY
 * LIMIT
 
+
+![Top Paying Jobs Result](screenshots/top_paying_jobs_result.png)
+
 ---
 
 ### 2. Top Skills Required
