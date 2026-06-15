@@ -75,7 +75,7 @@ LIMIT 10;
 * LIMIT
 
 
-![Top Paying Jobs Result](screenshots/top_paying_jobs_result.png)
+![Top Paying Jobs Result](Screenshot 2026-06-15 163920.png)
 
 ---
 
