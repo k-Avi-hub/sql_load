@@ -124,7 +124,7 @@ ON skills_job_dim.skill_id = skills_dim.skill_id;
 * LEFT JOIN
 * Multi-table Analysis
 * Data Filtering
-
+![TopSkills Required Result](top_skills_required.png)
 ```
 ```
 ## What I Learned
